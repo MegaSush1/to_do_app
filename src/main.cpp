@@ -5,7 +5,7 @@ int main(){
 
 	Todo.init();
 
-	List f("banania");
+	List f("banana");
 	std::cout << f.name<<std::endl;
 
 	for (listObj obj : f.getObj()){
